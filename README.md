@@ -43,9 +43,9 @@
   - `screen -S Raven`
 - Run the bot:
   - Linux Users:
-   `bash startup`
+    `./raven start`
   - ubuntu users:
-    `python(3) -m core`
+    `./raven start`
   - Windows Users:
     `python(3) -m core`
 - Detach `screen`:
