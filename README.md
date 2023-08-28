@@ -39,7 +39,7 @@
   - From Telegram Bot : [@StringFatherBot](https://t.me/StringFatherBot)
 - Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/itzNightmare17/Raven/blob/main/.env.sample).
 (You can either edit and rename the file or make a new file named `.env`.)
-- Make `screen`:
+- Attach `screen`:
   - `screen -S Raven`
 - Run the bot:
   - Linux Users:
