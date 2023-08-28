@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Raven - UserBot
+
+
+bash resources/session/session.sh
