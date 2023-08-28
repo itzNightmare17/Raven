@@ -1,6 +1,7 @@
 # Important Requirements here.
+
 requests
-https://github.com/...
+https://github.com/itzNightmare17/Telethon/archive/raven.zip
 # telethon
 python-decouple
 telethon-patch
