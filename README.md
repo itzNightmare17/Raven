@@ -9,7 +9,7 @@
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/Raven-v0.9-crimson)](#)
+[![](https://img.shields.io/badge/Raven-v1-blueviolet)](#)
 [![Stars](https://img.shields.io/github/stars/itzNightmare17/Raven?style=flat-square&color=yellow)](https://github.com/itzNightmare17/Raven/stargazers)
 [![Forks](https://img.shields.io/github/forks/itzNightmare17/Raven?style=flat-square&color=orange)](https://github.com/itzNightmare17/Raven/fork)
 [![Size](https://img.shields.io/github/repo-size/itzNightmare17/Raven?style=flat-square&color=green)](https://github.com/itzNightmare17/Raven/)   
