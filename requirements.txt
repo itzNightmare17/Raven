@@ -1,0 +1,10 @@
+# Important Requirements here.
+requests
+https://github.com/...
+# telethon
+python-decouple
+telethon-patch
+tgcrypto
+enhancer
+lottie
+cryptography==3.4.8
