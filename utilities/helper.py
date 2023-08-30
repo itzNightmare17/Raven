@@ -301,7 +301,7 @@ def time_formatter(milliseconds, fixed_format=False):
     )
     if not tmp:
         return "0s"
-    return tmp[:1] if tmp.endswith(":") else tmp
+    return tmp[:-1] if tmp.endswith(":") else tmp
 
 
 def humanbytes(size: int) -> str:
