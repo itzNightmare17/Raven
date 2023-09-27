@@ -24,17 +24,17 @@
 ### Local / VPS Deploy
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-  - `git clone https://github.com/itzNightmare17/Raven.git`
+  - `git clone https://github.com/itzNightmare17/Raven rv`
 - Go to the cloned folder:
-  - `cd Raven`
+  - `cd rv`
 - Create a virtual env:      
   - `virtualenv -p /usr/bin/python3 venv`
 
   - `. ./venv/bin/activate`
 - Install the requirements:      
-  - `pip(3) install -r reso*/star*/optional-requirements.txt`
+  - `pip install -r reso*/star*/optional-requirements.txt`
 
-  - `pip(3) install -r requirements.txt`
+  - `pip install -r requirements.txt`
 - Generate your `SESSION`:
   - From Telegram Bot : [@StringFatherBot](https://t.me/StringFatherBot)
 - Fill your details in a `.env` file, as given in [`.env.sample`](https://github.com/itzNightmare17/Raven/blob/main/.env.sample).
@@ -47,7 +47,7 @@
   - ubuntu users:
     `./raven start`
   - Windows Users:
-    `python(3) -m core`
+    `python3 -m core`
 - Detach `screen`:
   - `Ctrl+A` & `Ctrl+D`
 ---
